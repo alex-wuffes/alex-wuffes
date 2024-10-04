@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Alex Mashkovtsev (@alex-wuffes)
-- 🚀 I'm the Engineering Manager at Wuffes
+- 🚀 I'm the Head of Engineering at [Wuffes](https://wuffes.com/)
 - 📫 Reach me at alexmash@wuffes.com
 
 <!---
